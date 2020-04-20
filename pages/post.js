@@ -13,4 +13,4 @@ const page = () => {
 
 
 
-export default withLayout(page);
+export default page;

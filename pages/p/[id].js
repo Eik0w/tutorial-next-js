@@ -14,4 +14,4 @@ function Post() {
 	);
 }
 
-export default withLayout(Post);
+export default Post;
